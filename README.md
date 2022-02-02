@@ -4,6 +4,29 @@
 *Description here*
 
 
+### Repository Structure
+```
+$ ls
+|- notebooks/
+   |- prototype-notebook.ipynb
+   |- archive/
+|- projectname/
+   |- projectname/
+	  |- __init__.py
+	  |- config.py
+	  |- data.py
+	  |- utils.py
+   |- setup.py
+|- README.md
+|- data/
+   |- raw/
+   |- processed/
+   |- cleaned/
+|- scripts/
+   |- archive/
+|- environment.yml
+```
+
 ## Getting Started
 *Instructions here*
 
