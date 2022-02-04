@@ -24,7 +24,7 @@ $ ls
    |- cleaned/
 |- scripts/
    |- archive/
-|- environment.yml
+|- requirements.txt
 ```
 
 ## Getting Started
