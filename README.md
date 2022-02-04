@@ -8,10 +8,10 @@
 ```
 $ ls
 |- notebooks/
-   |- prototype-notebook.ipynb
+   |- initial_exploration.ipynb
    |- archive/
-|- projectname/
-   |- projectname/
+|- iwildcam/
+   |- iwildcam/
 	  |- __init__.py
 	  |- config.py
 	  |- data.py
